@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CAEB1A2D-8E09-4389-A2FE-4E01B8D2B0DA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "071F0979-4E77-4CFD-A0C5-022F722B3CFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeCrave/ViewModels/UserViewModels/RestaurantViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "071F0979-4E77-4CFD-A0C5-022F722B3CFF - 614cb1cc76ea4046"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Any) -&gt; Swift.Optional&lt;HomeCrave.Restaurant&gt; in closure #1 (__C.FIRDataSnapshot) -&gt; () in HomeCrave.RestaurantViewModel.init() -&gt; HomeCrave.RestaurantViewModel"
+                  moduleName = "HomeCrave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshipatil/Syracuse%20University/Mobile%20Application/Project/HomeCrave/HomeCrave/ViewModels/UserViewModels/RestaurantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "071F0979-4E77-4CFD-A0C5-022F722B3CFF - 614cb1cc76ea4046"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Any) -&gt; Swift.Optional&lt;HomeCrave.Restaurant&gt; in closure #1 (__C.FIRDataSnapshot) -&gt; () in HomeCrave.RestaurantViewModel.init() -&gt; HomeCrave.RestaurantViewModel"
+                  moduleName = "HomeCrave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshipatil/Syracuse%20University/Mobile%20Application/Project/HomeCrave/HomeCrave/ViewModels/UserViewModels/RestaurantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "823">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B4F8CC5-DB25-441F-A776-DEB0621B3B10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeCrave/ViewModels/UserViewModels/RestaurantViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B4F8CC5-DB25-441F-A776-DEB0621B3B10 - 614cb1cc76ea43a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Any) -&gt; Swift.Optional&lt;HomeCrave.Restaurant&gt; in closure #1 (__C.FIRDataSnapshot) -&gt; () in HomeCrave.RestaurantViewModel.init() -&gt; HomeCrave.RestaurantViewModel"
+                  moduleName = "HomeCrave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshipatil/Syracuse%20University/Mobile%20Application/Project/HomeCrave/HomeCrave/ViewModels/UserViewModels/RestaurantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "881">
+               </Location>
+               <Location
+                  uuid = "7B4F8CC5-DB25-441F-A776-DEB0621B3B10 - 614cb1cc76ea43a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Any) -&gt; Swift.Optional&lt;HomeCrave.Restaurant&gt; in closure #1 (__C.FIRDataSnapshot) -&gt; () in HomeCrave.RestaurantViewModel.init() -&gt; HomeCrave.RestaurantViewModel"
+                  moduleName = "HomeCrave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshipatil/Syracuse%20University/Mobile%20Application/Project/HomeCrave/HomeCrave/ViewModels/UserViewModels/RestaurantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1498">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C32CA5F-1969-4A4F-A307-41906CE32F73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeCrave/ViewModels/UserViewModels/RestaurantViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
